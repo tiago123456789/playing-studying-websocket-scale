@@ -16,3 +16,7 @@ Architecture:
 ===============
 ![architecture](arquitetura.png)
 
+Video show appliation:
+=======================
+![video](video.mp4)
+
