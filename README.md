@@ -14,9 +14,9 @@ Instructions running project:
 
 Architecture:
 ===============
-![architecture](arquitetura.png)
+![architecture](./arquitetura.png)
 
 Video show appliation:
 =======================
-![video](video.mp4)
+![video](./video.mp4)
 
