@@ -16,6 +16,14 @@ Architecture:
 ===============
 ![architecture](./arquitetura.png)
 
+Explain image above:
+=====================
+ - Client make request
+ - Request incoming proxy(nginx) that send for one application websocket
+ - When one client execute one action is publish event with data
+ - All instances application websocket listen and execute someone action.
+ - **OBS:** redis is used here with pub/sub broker
+ 
 Video show appliation:
 =======================
 Link: https://github.com/tiago123456789/playing-studying-websocket-scale/blob/master/video.mp4
