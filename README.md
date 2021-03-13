@@ -18,5 +18,5 @@ Architecture:
 
 Video show appliation:
 =======================
-![video](https://github.com/tiago123456789/playing-studying-websocket-scale/blob/master/video.mp4)
+(https://github.com/tiago123456789/playing-studying-websocket-scale/blob/master/video.mp4)
 
